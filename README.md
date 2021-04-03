@@ -19,6 +19,8 @@
  <br>
  <li>&nbsp; Run Console Commands</li>
  <br>
+ <li>&nbsp; Save logs as File</li>
+ <br>
  <h4>Adding In the Future</h4>
  <br>
  <li> &nbsp; Download Logs</li>
